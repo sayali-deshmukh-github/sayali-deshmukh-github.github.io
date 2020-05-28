@@ -1,0 +1,56 @@
+main {
+  font-family: sans-serif;
+  background: #eeeeee;
+  border-radius: 2%;
+  height: 100;
+  display: block;
+}
+
+h1 {
+  padding-top: 4rem;
+  display: flex;
+  justify-content: center;
+}
+
+.sub-heading {
+  display: flex;
+  justify-content: center;
+}
+
+#img-div {
+  background: white;
+  padding: 1rem;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#img-caption {
+  display: flex;
+  justify-content: center;
+  padding-top: 0.5rem;
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+}
+
+#tribute-info {
+  padding: 2rem 4rem 2rem 4rem;
+}
+
+li {
+  padding-top: 1rem;
+}
+
+.testimonial {
+  padding-left: 2rem;
+}
+
+.testimonial-author {
+  padding: 1rem 2rem;
+}
