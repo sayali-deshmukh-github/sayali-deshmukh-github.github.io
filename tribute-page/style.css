@@ -20,12 +20,15 @@ h1 {
 #img-div {
   background: white;
   padding: 1rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 
 #image {
-  max-width: 100%;
-  height: auto;
-  display: block;
+  display: flex;
+  justify-content: center;
+  object-fit: cover;
 }
 
 #img-caption {
